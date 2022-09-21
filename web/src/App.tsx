@@ -1,21 +1,9 @@
-interface ButtonProps{
-  title?: string;
-  onclick?: () => string;
-}
-
-function Button (props: ButtonProps) {
-  return (
-    <button>{props.title}</button>
-  )
-}
+import './styles/main.css'
 
 function App() {
   return (
-    <div>
-      <Button title="Click me"/>
-      <Button title="Click me too"/>
-      <Button title="Teste"/>
-      <Button title="Teste 2"/>
+    <div className="w-8 h-8 bg-violet-600">
+      
     </div>
   )
 }
