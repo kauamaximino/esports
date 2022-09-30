@@ -16,7 +16,7 @@ Na parte Mobile, estou utilizando React Native.
 
 <br/>
 
-## 🛠 Tecnologiaso
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 -  **[TypeScript](https://www.typescriptlang.org/)**
