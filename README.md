@@ -10,7 +10,7 @@ O Projeto será todo desenvolvido em TypeScript.
 
 No Front-End estou utilizando React juntamente com Tailwind e algumas outras tecnologias.
 
-No Back-End estou utilizando Node.js, Express, Nodemon e algumas tecnologias.
+No Back-End estou utilizando Node.js, Express, Nodemon e algumas outras tecnologias.
 
 Na parte Mobile, estou utilizando React Native.
 
